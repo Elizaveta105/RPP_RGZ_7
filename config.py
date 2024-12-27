@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 import os
 
+# Эта функция загружает переменные окружения из файла .env в текущую среду
 load_dotenv()
 
 class Config:
